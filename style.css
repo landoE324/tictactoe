@@ -1,5 +1,6 @@
 html {
     background-color: rgb(104, 204, 104);
+    color: rgb(88, 21, 88);
 }
 
 body {
@@ -16,6 +17,7 @@ section {
     grid-template-columns: repeat(3, auto);
     width: 306px;
     margin: 50px auto;
+    color: rgb(88, 21, 88);
 }
 
 .cell {
